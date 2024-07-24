@@ -1,5 +1,5 @@
 [
 null,
-{"id":1,"battlerName":"","characterIndex":1,"characterName":"PC","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Elise","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"","characterIndex":4,"characterName":"PC","classId":1,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"Evil","traits":[],"initialLevel":1,"maxLevel":99,"name":"???","nickname":"Shadow Fella","note":"","profile":""}
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"EliseSprite","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Elise","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":7,"characterName":"EliseSprite","classId":1,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"Evil","traits":[],"initialLevel":1,"maxLevel":99,"name":"???","nickname":"Shadow Fella","note":"","profile":""}
 ]
