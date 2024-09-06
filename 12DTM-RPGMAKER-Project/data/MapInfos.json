@@ -11,6 +11,6 @@ null,
 {"id":9,"expanded":true,"name":"Floor 2","order":9,"parentId":2,"scrollX":893.4545454545455,"scrollY":488.72727272727275},
 {"id":10,"expanded":true,"name":"2B Classroom","order":11,"parentId":2,"scrollX":884.7272727272727,"scrollY":557.4545454545455},
 {"id":11,"expanded":false,"name":"Credits","order":2,"parentId":6,"scrollX":893.4545454545455,"scrollY":488.72727272727275},
-{"id":12,"expanded":true,"name":"Music Corridor","order":12,"parentId":2,"scrollX":819,"scrollY":461},
-{"id":13,"expanded":false,"name":"Large Music Practise Room","order":13,"parentId":2,"scrollX":819,"scrollY":448}
+{"id":12,"expanded":true,"name":"Music Corridor","order":12,"parentId":2,"scrollX":893.4545454545455,"scrollY":488.72727272727275},
+{"id":13,"expanded":false,"name":"Large Music Practise Room","order":13,"parentId":2,"scrollX":893.4545454545455,"scrollY":488.72727272727275}
 ]
